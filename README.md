@@ -1,4 +1,5 @@
 # Прв колоквиум по предметот Методологија на истражувањата во ИКТ
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ddimoski/dyslexia_171015/HEAD)
 
 **Студент: Давор Димоски**
 
